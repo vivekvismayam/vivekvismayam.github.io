@@ -20,6 +20,7 @@ $(document).ready(function() {
         if (valueEntered == '') {
             alert("Enter some value to search");
         } else {
+            $("#spinner").show();
 
             //Search for Post Offices
             fetch('https://api.postalpincode.in/pincode/' + valueEntered)
@@ -102,5 +103,6 @@ function processHTMLFromData() {
     }
 
     $("#displayPO").html(allPO);
-    $("#filter-section").show();
+    $("#spinner").hide();
+
 }
