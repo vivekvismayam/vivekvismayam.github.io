@@ -1,0 +1,49 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - InSights</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - Tag - InSights</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 24 May 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Admin</title>
+    <link>http://localhost:1313/tags/admin/</link>
+    <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/admin/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Automation</title>
+    <link>http://localhost:1313/tags/automation/</link>
+    <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/automation/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Custom Labels</title>
+    <link>http://localhost:1313/tags/custom-labels/</link>
+    <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/custom-labels/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Flows</title>
+    <link>http://localhost:1313/tags/flows/</link>
+    <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/flows/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>LWC</title>
+    <link>http://localhost:1313/tags/lwc/</link>
+    <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/lwc/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>LWR Site</title>
+    <link>http://localhost:1313/tags/lwr-site/</link>
+    <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/lwr-site/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
