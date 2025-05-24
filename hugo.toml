@@ -1,0 +1,216 @@
+#baseURL = "http://vivekvismayam.github.io"
+baseURL = "http://localhost:1313/"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
+# language code
+languageCode = "en"
+title = "InSights"
+relativeURLs = true
+
+
+# Change the default theme to be use when building the site with Hugo
+theme = "DoIt"
+
+[params]
+  # DoIt theme version
+  version = "0.2.X"
+  summaryLength = 10  # number of words (not lines)
+[params.app]
+svgFavicon = "/images/logo_512.png"
+[params.header.title]
+  logo = "/images/logo_512.png"
+  name="InSights"
+[params.home.profile]
+  enable = true
+  social=true
+  # URL of avatar shown in home page
+  avatarURL = "/images/avatar.png"
+  #avatarURL = "/images/logo_512.png"
+  title = "Vivek M"
+  #subtitle="Salesforce Dev Tips & Notes"
+  #disclaimer="The content on this blog is for informational purposes only. I make no representations or warranties regarding the accuracy or completeness of any information provided. I am not liable for any losses, damages, or decisions made based on the content shared here. Please consult a professional before making any decisions based on this blog."
+  disclaimer="<a href='/profile' target='_blank'>View More About Me</a>"
+  typeit = true
+[params.social]
+  linkedin="vivekvismayam"
+  telegram="vivekvismayam"
+  #github="vivekvismayam"
+  stackoverflow="21853296/vivekvismayam"
+  #discord="vivekvismayam"
+  email="vivekvismayam@hotmail.com"
+  website="vivekvismayam1.github.io"
+ 
+#Added for authors
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+#Added for Search
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+[params.search]
+  enable = true
+  # type of search engine ("algolia", "fuse")
+  type = "fuse"
+  # max index length of the chunked content
+  contentLength = 4000
+  # placeholder of the search bar
+  placeholder = ""
+  #  max number of results length
+  maxResultLength = 10
+  #  snippet length of the result
+  snippetLength = 30
+  #  HTML tag name of the highlight part in results
+  highlightTag = "em"
+  #  whether to use the absolute URL based on the baseURL in search index
+  absoluteURL = false
+  [params.search.fuse]
+    #  https://fusejs.io/api/options.html
+    isCaseSensitive = false
+    minMatchCharLength = 2
+    findAllMatches = false
+    location = 0
+    threshold = 0.3
+    distance = 100
+    ignoreLocation = false
+    useExtendedSearch = false
+    ignoreFieldNorm = false
+  #search end
+#  Page config
+[params.page]
+  # whether to enable word count
+  enableWordCount = true
+  # whether to enable reading time estimation
+  enableReadingTime = true    
+  # whether to enable last modified time
+  enableLastMod = false
+  #  Table of the contents config
+  [params.page.toc]
+      # whether to enable the table of the contents
+      enable = true
+      #  whether to keep the static table of the contents in front of the post
+      keepStatic = false
+      # whether to make the table of the contents in the sidebar automatically collapsed
+      auto = true
+    #  Code config
+    [params.page.code]
+      # the maximum number of lines of displayed code by default
+      maxShownLines = 10
+      # whether to enable line numbers in the code block
+      lineNos = true
+      # whether to enable line wrapping in the code block
+      wrap = false
+      # whether to display the header in the code block
+      header = true
+    #  Table config
+    [params.page.table]
+      # whether to enable sorting in the tables
+      sort = true
+    #  social share links in post page
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Facebook = true
+      Linkedin = true
+      Whatsapp = true
+      Pinterest = false
+      Tumblr = false
+      HackerNews = false
+      Reddit = true
+      VK = false
+      Buffer = false
+      Xing = false
+      Line = true
+      Instapaper = false
+      Pocket = false
+      Digg = false
+      Stumbleupon = false
+      Flipboard = false
+      Weibo = true
+      Renren = false
+      Myspace = true
+      Blogger = true
+      Baidu = false
+      Odnoklassniki = false
+      Evernote = false
+      Skype = true
+      Trello = false
+      Mix = false
+      Mastodon = false
+    #  Comment config
+    [params.page.comment]
+      enable = true
+      #  giscus comment config
+      [params.page.comment.giscus]
+        enable = false
+        # owner/repo
+        dataRepo = ""
+        dataRepoId = ""
+        dataCategory = ""
+        dataCategoryId = ""
+        dataMapping = "pathname"
+        dataReactionsEnabled = "1"
+        dataEmitMetadata = "0"
+        dataInputPosition = "bottom"
+        lightTheme = "light"
+        darkTheme = "dark"
+        dataLang = "en"
+        dataLoading = "lazy"
+  [params.footer]
+    enable = true
+    custom = "- © 2025 vivekvismayam - </br><i>The content on this blog is for informational purposes only.I make no representations or warranties regarding the accuracy or completeness of any information provided.<br/> I am not liable for any losses, damages, or decisions made based on the content shared here. Please consult a professional before making any decisions based on this blog.</i>"
+    hugo = false
+    license = false
+    copyright=false
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 3
+  [[menu.main]]
+    identifier = "Authors"
+    pre = ""
+    post = ""
+    name = "Authors"
+    url = "/authors/"
+    title = ""
+    weight = 4
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
