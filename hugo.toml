@@ -1,5 +1,4 @@
-#baseURL = "http://vivekvismayam.github.io"
-baseURL = "http://localhost:1313/"
+baseURL = "http://vivekvismayam.github.io"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code

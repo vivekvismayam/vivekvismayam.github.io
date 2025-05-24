@@ -17,3 +17,4 @@
 {{- with .Site.Params.social.Twitter -}}
 <meta name="twitter:creator" content="@{{ . }}" />
 {{- end -}}
+{{ partial "extend_head.html" . }}
