@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SObjects - Tag - InSights</title>
+        <link>http://localhost:1313/tags/sobjects/</link>
+        <description>SObjects - Tag - InSights</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 03 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/tags/sobjects/" rel="self" type="application/rss+xml" /><item>
+    <title>Get Complete List Of Objects Using SF CLI Command📝📝📝</title>
+    <link>http://localhost:1313/posts/list-of-objects-cli/</link>
+    <pubDate>Mon, 03 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam1.github.io</uri><email>vivekvismayam@gmail.com</email></author><guid>http://localhost:1313/posts/list-of-objects-cli/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/generic_header.png" referrerpolicy="no-referrer">
+            </div>Easiest way to get list of objects if you can execute SF CLI]]></description>
+</item></channel>
+</rss>
