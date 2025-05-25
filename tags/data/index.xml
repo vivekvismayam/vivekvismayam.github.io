@@ -4,6 +4,14 @@
         <link>https://vivekvismayam.github.io/tags/data/</link>
         <description>Data - Tag - InSights</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 03 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/data/" rel="self" type="application/rss+xml" /><item>
+    <title>Import Files Using Bulk API from Salesforce CLI </title>
+    <link>https://vivekvismayam.github.io/posts/bulk-import-using-cli/</link>
+    <pubDate>Sat, 25 May 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/bulk-import-using-cli/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_header.png" referrerpolicy="no-referrer">
+            </div>You can now use the power of Bulk API to 𝐢𝐦𝐩𝐨𝐫𝐭 𝐚 𝐥𝐚𝐫𝐠𝐞 𝐧𝐮𝐦𝐛𝐞𝐫 𝐨𝐟 𝐫𝐞𝐜𝐨𝐫𝐝𝐬 𝐢𝐧𝐭𝐨 𝐚 𝐒𝐚𝐥𝐞𝐬𝐟𝐨𝐫𝐜𝐞 𝐨𝐛𝐣𝐞𝐜𝐭 𝐟𝐫𝐨𝐦 𝐚 𝐜𝐨𝐦𝐦𝐚-𝐬𝐞𝐩𝐚𝐫𝐚𝐭𝐞𝐝 𝐯𝐚𝐥𝐮𝐞𝐬 (𝐂𝐒𝐕) 𝐟𝐢𝐥𝐞]]></description>
+</item><item>
     <title>Transfer Records Using SF CLI Command❗❗❗</title>
     <link>https://vivekvismayam.github.io/posts/transfer-records-using-cli/</link>
     <pubDate>Sat, 25 May 2024 16:10:13 &#43;0530</pubDate><author>
