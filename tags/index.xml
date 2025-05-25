@@ -1,77 +1,77 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - InSights</title>
-        <link>http://vivekvismayam.github.io/tags/</link>
+        <link>https://vivekvismayam.github.io/tags/</link>
         <description>Tags - Tag - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="http://vivekvismayam.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Admin</title>
-    <link>http://vivekvismayam.github.io/tags/admin/</link>
+    <link>https://vivekvismayam.github.io/tags/admin/</link>
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/tags/admin/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/admin/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Apex</title>
-    <link>http://vivekvismayam.github.io/tags/apex/</link>
+    <link>https://vivekvismayam.github.io/tags/apex/</link>
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/tags/apex/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/apex/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>CustomNotifications</title>
-    <link>http://vivekvismayam.github.io/tags/customnotifications/</link>
+    <link>https://vivekvismayam.github.io/tags/customnotifications/</link>
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/tags/customnotifications/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/customnotifications/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Flow</title>
-    <link>http://vivekvismayam.github.io/tags/flow/</link>
+    <link>https://vivekvismayam.github.io/tags/flow/</link>
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/tags/flow/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/flow/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>CLI</title>
-    <link>http://vivekvismayam.github.io/tags/cli/</link>
+    <link>https://vivekvismayam.github.io/tags/cli/</link>
     <pubDate>Mon, 03 Jun 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/tags/cli/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/cli/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Data</title>
-    <link>http://vivekvismayam.github.io/tags/data/</link>
+    <link>https://vivekvismayam.github.io/tags/data/</link>
     <pubDate>Mon, 03 Jun 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/tags/data/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/data/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Automation</title>
-    <link>http://vivekvismayam.github.io/tags/automation/</link>
+    <link>https://vivekvismayam.github.io/tags/automation/</link>
     <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/tags/automation/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/automation/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Flows</title>
-    <link>http://vivekvismayam.github.io/tags/flows/</link>
+    <link>https://vivekvismayam.github.io/tags/flows/</link>
     <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/tags/flows/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/flows/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Custom Labels</title>
-    <link>http://vivekvismayam.github.io/tags/custom-labels/</link>
+    <link>https://vivekvismayam.github.io/tags/custom-labels/</link>
     <pubDate>Thu, 23 May 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/tags/custom-labels/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/custom-labels/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>LWC</title>
-    <link>http://vivekvismayam.github.io/tags/lwc/</link>
+    <link>https://vivekvismayam.github.io/tags/lwc/</link>
     <pubDate>Thu, 23 May 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/tags/lwc/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/lwc/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

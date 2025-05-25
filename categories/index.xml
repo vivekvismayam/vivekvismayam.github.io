@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - InSights</title>
-        <link>http://vivekvismayam.github.io/categories/</link>
+        <link>https://vivekvismayam.github.io/categories/</link>
         <description>Categories - Category - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="http://vivekvismayam.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/categories/" rel="self" type="application/rss+xml" /><item>
     <title>IT</title>
-    <link>http://vivekvismayam.github.io/categories/it/</link>
+    <link>https://vivekvismayam.github.io/categories/it/</link>
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/categories/it/</guid>
+    </author><guid>https://vivekvismayam.github.io/categories/it/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Salesforce</title>
-    <link>http://vivekvismayam.github.io/categories/salesforce/</link>
+    <link>https://vivekvismayam.github.io/categories/salesforce/</link>
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>http://vivekvismayam.github.io/categories/salesforce/</guid>
+    </author><guid>https://vivekvismayam.github.io/categories/salesforce/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

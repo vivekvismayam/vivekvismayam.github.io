@@ -1,13 +1,13 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Apex - Tag - InSights</title>
-        <link>http://vivekvismayam.github.io/tags/apex/</link>
+        <link>https://vivekvismayam.github.io/tags/apex/</link>
         <description>Apex - Tag - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="http://vivekvismayam.github.io/tags/apex/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/apex/" rel="self" type="application/rss+xml" /><item>
     <title>Push Notifications on salesforce screen</title>
-    <link>http://vivekvismayam.github.io/posts/show-push-notifications/</link>
+    <link>https://vivekvismayam.github.io/posts/show-push-notifications/</link>
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>http://vivekvismayam.github.io/posts/show-push-notifications/</guid>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/show-push-notifications/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/p5_1.jpg" referrerpolicy="no-referrer">
             </div>Show Push Notifications on salesforce]]></description>
