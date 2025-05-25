@@ -2,7 +2,7 @@
 
 &nbsp;  
 
-# Have you ever thought on how we can show Push Notifications on salesforce screen?🤔🤔🤔
+# Have you ever thought on  how we can show Push Notifications on salesforce screen?🤔🤔🤔
 
 It is a great way to alert your salesforce users about anything which needs immediate attention.
 And It may not be as complex as you think!🪄🔔📲
