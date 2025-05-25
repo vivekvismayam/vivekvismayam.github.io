@@ -1,4 +1,4 @@
-# Transfer Records Using SF CLI Command❗❗❗
+# Transfer Records Using SF CLI Command❗
 
 &nbsp;  
 
