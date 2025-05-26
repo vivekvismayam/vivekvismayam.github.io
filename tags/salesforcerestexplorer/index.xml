@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SalesforceRestExplorer - Tag - InSights</title>
+        <link>https://vivekvismayam.github.io/tags/salesforcerestexplorer/</link>
+        <description>SalesforceRestExplorer - Tag - InSights</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 28 May 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/salesforcerestexplorer/" rel="self" type="application/rss+xml" /><item>
+    <title>Populate Lookups Using External Id from APIs</title>
+    <link>https://vivekvismayam.github.io/posts/populate-lookup-external-id/</link>
+    <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/populate-lookup-external-id/</guid>
+    <description><![CDATA[An external field on parent object can be used to populate the relation when creating/updating a child object record.]]></description>
+</item></channel>
+</rss>

@@ -25,11 +25,11 @@
     </author><guid>https://vivekvismayam.github.io/tags/customnotifications/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Flow</title>
-    <link>https://vivekvismayam.github.io/tags/flow/</link>
+    <title>Flows</title>
+    <link>https://vivekvismayam.github.io/tags/flows/</link>
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>https://vivekvismayam.github.io/tags/flow/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/flows/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>CLI</title>
@@ -46,6 +46,20 @@
     </author><guid>https://vivekvismayam.github.io/tags/data/</guid>
     <description><![CDATA[]]></description>
 </item><item>
+    <title>RestAPI</title>
+    <link>https://vivekvismayam.github.io/tags/restapi/</link>
+    <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://vivekvismayam.github.io/tags/restapi/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>SalesforceRestExplorer</title>
+    <link>https://vivekvismayam.github.io/tags/salesforcerestexplorer/</link>
+    <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://vivekvismayam.github.io/tags/salesforcerestexplorer/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>BulkAPI</title>
     <link>https://vivekvismayam.github.io/tags/bulkapi/</link>
     <pubDate>Sat, 25 May 2024 16:10:13 &#43;0530</pubDate><author>
@@ -53,25 +67,11 @@
     </author><guid>https://vivekvismayam.github.io/tags/bulkapi/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Automation</title>
-    <link>https://vivekvismayam.github.io/tags/automation/</link>
-    <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
+    <title>HTTP</title>
+    <link>https://vivekvismayam.github.io/tags/http/</link>
+    <pubDate>Sat, 25 May 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
-    </author><guid>https://vivekvismayam.github.io/tags/automation/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Flows</title>
-    <link>https://vivekvismayam.github.io/tags/flows/</link>
-    <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://vivekvismayam.github.io/tags/flows/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Custom Labels</title>
-    <link>https://vivekvismayam.github.io/tags/custom-labels/</link>
-    <pubDate>Thu, 23 May 2024 16:10:13 &#43;0530</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://vivekvismayam.github.io/tags/custom-labels/</guid>
+    </author><guid>https://vivekvismayam.github.io/tags/http/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

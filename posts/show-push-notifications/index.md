@@ -67,7 +67,9 @@ You can use CustomNotification class to create a push notification as below.
 
 >please note this is rough code for understanding ,see the below Screenshot for exact code:
 > ![Image 8](/images/p5_8.jpg)
-> 
+>
+>>🔗 🔗Here is the link to SF documentation on [CustomNotification Class](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_class_Messaging_CustomNotification.htm) 
+
 >🔗 Here is a nice article on the same from [SF Ben](https://www.salesforceben.com/set-up-salesforce-push-notifications/) 
 
 *This Content was originally posted in linkedin [View Post](https://www.linkedin.com/posts/vivekvismayam_pushnotification-salesforce-sf-activity-7262473176356397058-a7Aq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA_bVqsB5ZA6FQt9Rk3q8WfamtkMsTNLxRo)*

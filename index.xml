@@ -14,6 +14,12 @@
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_header.png" referrerpolicy="no-referrer">
             </div>Show Push Notifications on salesforce]]></description>
 </item><item>
+    <title>Populate Lookups Using External Id from APIs</title>
+    <link>https://vivekvismayam.github.io/posts/populate-lookup-external-id/</link>
+    <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/populate-lookup-external-id/</guid>
+    <description><![CDATA[An external field on parent object can be used to populate the relation when creating/updating a child object record.]]></description>
+</item><item>
     <title>Import Files Using Bulk API from Salesforce CLI </title>
     <link>https://vivekvismayam.github.io/posts/bulk-import-using-cli/</link>
     <pubDate>Sat, 25 May 2024 16:10:13 &#43;0530</pubDate><author>
@@ -37,6 +43,12 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/generic_header.png" referrerpolicy="no-referrer">
             </div>Easiest way to get list of objects if you can execute SF CLI]]></description>
+</item><item>
+    <title>Exploring the Lesser-Known HTTP Method: HEAD 🌐</title>
+    <link>https://vivekvismayam.github.io/posts/http-method-head/</link>
+    <pubDate>Sat, 25 May 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/http-method-head/</guid>
+    <description><![CDATA[One method in the HTTP family that often goes unnoticed: the HEAD method. 🕵️‍♂️]]></description>
 </item><item>
     <title>New Automation Lightning App in Salesforce⚡⚡⚡</title>
     <link>https://vivekvismayam.github.io/posts/automation-lightning-app/</link>
