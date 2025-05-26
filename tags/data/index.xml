@@ -4,17 +4,21 @@
         <link>https://vivekvismayam.github.io/tags/data/</link>
         <description>Data - Tag - InSights</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 03 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/data/" rel="self" type="application/rss+xml" /><item>
+    <title>Pass sObject to an Apex Method From LWC Component📲</title>
+    <link>https://vivekvismayam.github.io/posts/pass-sobject-lwc-to-apex/</link>
+    <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/pass-sobject-lwc-to-apex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p9_header.png" referrerpolicy="no-referrer">
+            </div>How to pass an sobject record to an apex method from LWC component]]></description>
+</item><item>
     <title>Populate Lookups Using External Id from APIs</title>
     <link>https://vivekvismayam.github.io/posts/populate-lookup-external-id/</link>
     <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
                         <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/populate-lookup-external-id/</guid>
-<<<<<<< HEAD
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p8_header.png" referrerpolicy="no-referrer">
             </div>An external field on parent object can be used to populate the relation when creating/updating a child object record.]]></description>
-=======
-    <description><![CDATA[An external field on parent object can be used to populate the relation when creating/updating a child object record.]]></description>
->>>>>>> 20d95c1 (p7 p8)
 </item><item>
     <title>Import Files Using Bulk API from Salesforce CLI </title>
     <link>https://vivekvismayam.github.io/posts/bulk-import-using-cli/</link>
@@ -44,12 +48,8 @@
     <link>https://vivekvismayam.github.io/posts/http-method-head/</link>
     <pubDate>Sat, 25 May 2024 16:10:13 &#43;0530</pubDate><author>
                         <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/http-method-head/</guid>
-<<<<<<< HEAD
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/generic_header.png" referrerpolicy="no-referrer">
             </div>One method in the HTTP family that often goes unnoticed: the HEAD method. 🕵️‍♂️]]></description>
-=======
-    <description><![CDATA[One method in the HTTP family that often goes unnoticed: the HEAD method. 🕵️‍♂️]]></description>
->>>>>>> 20d95c1 (p7 p8)
 </item></channel>
 </rss>

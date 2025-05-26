@@ -4,7 +4,7 @@
         <link>https://vivekvismayam.github.io/tags/flows/</link>
         <description>Flows - Tag - InSights</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/flows/" rel="self" type="application/rss+xml" /><item>
-    <title>Push Notifications on salesforce screen</title>
+    <title>Push Notifications on Salesforce🔔</title>
     <link>https://vivekvismayam.github.io/posts/show-push-notifications/</link>
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
                         <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/show-push-notifications/</guid>
@@ -17,7 +17,7 @@
     <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
                         <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/automation-lightning-app/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/images/p2_1.jpg" referrerpolicy="no-referrer">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p2_1.jpg" referrerpolicy="no-referrer">
             </div>Manage Your Flows More Efficiently with the Automation Lightning App]]></description>
 </item></channel>
 </rss>

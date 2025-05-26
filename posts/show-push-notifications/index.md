@@ -1,4 +1,4 @@
-# Push Notifications on salesforce screen
+# Push Notifications on Salesforce🔔
 
 &nbsp;  
 
@@ -18,10 +18,10 @@ Lets break this up in to 2 steps:🪛
  👉Go to Setup > Notification Builder > Custom Notifications .   
  Create a new Custom Notification Type by giving name and supported channels(Desktop/Mobile)
  
- ![Image 1](/images/p5_2.jpg)
+ ![Image 1](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_2.jpg)
 
 
- ![Image 2](/images/p5_3.jpg)
+ ![Image 2](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_3.jpg)
  ***
 
 ## Trigger the notification
@@ -39,16 +39,16 @@ You can use Action element->select Action **'Send Custom Notification'** and pas
 
 Here are few screenshots to understand this better:
 
-![Image 4](/images/p5_4.jpg)
+![Image 4](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_4.jpg)
 ***
 
-![Image 5](/images/p5_5.jpg)
+![Image 5](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_5.jpg)
 ***
 
-![Image 6](/images/p5_6.jpg)
+![Image 6](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_6.jpg)
 ***
 
-![Image 7](/images/p5_7.jpg)
+![Image 7](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_7.jpg)
 
 ***
 
@@ -66,7 +66,7 @@ You can use CustomNotification class to create a push notification as below.
 ```
 
 >please note this is rough code for understanding ,see the below Screenshot for exact code:
-> ![Image 8](/images/p5_8.jpg)
+> ![Image 8](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_8.jpg)
 >
 >>🔗 🔗Here is the link to SF documentation on [CustomNotification Class](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_class_Messaging_CustomNotification.htm) 
 

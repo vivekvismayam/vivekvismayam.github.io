@@ -4,7 +4,7 @@
         <link>https://vivekvismayam.github.io/tags/admin/</link>
         <description>Admin - Tag - InSights</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/admin/" rel="self" type="application/rss+xml" /><item>
-    <title>Push Notifications on salesforce screen</title>
+    <title>Push Notifications on Salesforce🔔</title>
     <link>https://vivekvismayam.github.io/posts/show-push-notifications/</link>
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
                         <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/show-push-notifications/</guid>
@@ -16,13 +16,9 @@
     <link>https://vivekvismayam.github.io/posts/populate-lookup-external-id/</link>
     <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
                         <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/populate-lookup-external-id/</guid>
-<<<<<<< HEAD
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p8_header.png" referrerpolicy="no-referrer">
             </div>An external field on parent object can be used to populate the relation when creating/updating a child object record.]]></description>
-=======
-    <description><![CDATA[An external field on parent object can be used to populate the relation when creating/updating a child object record.]]></description>
->>>>>>> 20d95c1 (p7 p8)
 </item><item>
     <title>Import Files Using Bulk API from Salesforce CLI </title>
     <link>https://vivekvismayam.github.io/posts/bulk-import-using-cli/</link>
@@ -52,20 +48,16 @@
     <link>https://vivekvismayam.github.io/posts/http-method-head/</link>
     <pubDate>Sat, 25 May 2024 16:10:13 &#43;0530</pubDate><author>
                         <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/http-method-head/</guid>
-<<<<<<< HEAD
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/generic_header.png" referrerpolicy="no-referrer">
             </div>One method in the HTTP family that often goes unnoticed: the HEAD method. 🕵️‍♂️]]></description>
-=======
-    <description><![CDATA[One method in the HTTP family that often goes unnoticed: the HEAD method. 🕵️‍♂️]]></description>
->>>>>>> 20d95c1 (p7 p8)
 </item><item>
     <title>New Automation Lightning App in Salesforce⚡⚡⚡</title>
     <link>https://vivekvismayam.github.io/posts/automation-lightning-app/</link>
     <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
                         <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/automation-lightning-app/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/images/p2_1.jpg" referrerpolicy="no-referrer">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p2_1.jpg" referrerpolicy="no-referrer">
             </div>Manage Your Flows More Efficiently with the Automation Lightning App]]></description>
 </item><item>
     <title>Custom Label As A Property In Lightning Page &amp; LWR Site🔖🔖🔖</title>
