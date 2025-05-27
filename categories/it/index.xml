@@ -4,38 +4,6 @@
         <link>https://vivekvismayam.github.io/categories/it/</link>
         <description>IT - Category - InSights</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/categories/it/" rel="self" type="application/rss+xml" /><item>
-    <title>Upload Files In LWC- 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘪𝘯𝘱𝘶𝘵 𝘷𝘴 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘧𝘪𝘭𝘦-𝘶𝘱𝘭𝘰𝘢𝘥</title>
-    <link>https://vivekvismayam.github.io/posts/fileupload-vs-lightninginput/</link>
-    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/fileupload-vs-lightninginput/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p12_header.png" referrerpolicy="no-referrer">
-            </div>Great way to track adoption and usage of Lightning Experience]]></description>
-</item><item>
-    <title>Push Notifications on Salesforce🔔</title>
-    <link>https://vivekvismayam.github.io/posts/show-push-notifications/</link>
-    <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/show-push-notifications/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_header.png" referrerpolicy="no-referrer">
-            </div>Show Push Notifications on salesforce]]></description>
-</item><item>
-    <title>Lightning Usage App</title>
-    <link>https://vivekvismayam.github.io/posts/lightning-usage-app/</link>
-    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/lightning-usage-app/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p11_header.png" referrerpolicy="no-referrer">
-            </div>Great way to track adoption and usage of Lightning Experience]]></description>
-</item><item>
-    <title>Experienced Page Time in Salesforce</title>
-    <link>https://vivekvismayam.github.io/posts/experienced-page-time/</link>
-    <pubDate>Fri, 28 Jun 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/experienced-page-time/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p10_header.png" referrerpolicy="no-referrer">
-            </div>Ever wondered how long it takes for a Lightning Experience page to fully load and display? Salesforce&rsquo;s Experienced Page Time (EPT) helps measure exactly that!]]></description>
-</item><item>
     <title>Quick Tip! Make An Authenticated HTTP Request using Salesforce CLI 🚀 </title>
     <link>https://vivekvismayam.github.io/posts/api-call-from-sf-cli/</link>
     <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
@@ -76,6 +44,14 @@
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p3_header.png" referrerpolicy="no-referrer">
             </div>Easiest way to transfer few records and child records between two sandboxes/orgs]]></description>
 </item><item>
+    <title>Push Notifications on Salesforce🔔</title>
+    <link>https://vivekvismayam.github.io/posts/show-push-notifications/</link>
+    <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/show-push-notifications/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_header.png" referrerpolicy="no-referrer">
+            </div>Show Push Notifications on salesforce]]></description>
+</item><item>
     <title>Get Complete List Of Objects Using SF CLI Command📝📝📝</title>
     <link>https://vivekvismayam.github.io/posts/list-of-objects-cli/</link>
     <pubDate>Mon, 03 Jun 2024 16:10:13 &#43;0530</pubDate><author>
@@ -83,5 +59,29 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/generic_header.png" referrerpolicy="no-referrer">
             </div>Easiest way to get list of objects if you can execute SF CLI]]></description>
+</item><item>
+    <title>Custom Label As A Property In Lightning Page &amp; LWR Site🔖🔖🔖</title>
+    <link>https://vivekvismayam.github.io/posts/custom-label-as-property/</link>
+    <pubDate>Thu, 23 May 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/custom-label-as-property/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p1_header.png" referrerpolicy="no-referrer">
+            </div>Using Custom Label as a Property in Lightning Page &amp; LWR Site]]></description>
+</item><item>
+    <title>Lightning Usage App</title>
+    <link>https://vivekvismayam.github.io/posts/lightning-usage-app/</link>
+    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/lightning-usage-app/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p11_header.png" referrerpolicy="no-referrer">
+            </div>Great way to track adoption and usage of Lightning Experience]]></description>
+</item><item>
+    <title>Upload Files In LWC- 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘪𝘯𝘱𝘶𝘵 𝘷𝘴 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘧𝘪𝘭𝘦-𝘶𝘱𝘭𝘰𝘢𝘥</title>
+    <link>https://vivekvismayam.github.io/posts/fileupload-vs-lightninginput/</link>
+    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/fileupload-vs-lightninginput/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p12_header.png" referrerpolicy="no-referrer">
+            </div>Great way to track adoption and usage of Lightning Experience]]></description>
 </item></channel>
 </rss>

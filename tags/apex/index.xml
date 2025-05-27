@@ -4,14 +4,6 @@
         <link>https://vivekvismayam.github.io/tags/apex/</link>
         <description>Apex - Tag - InSights</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/apex/" rel="self" type="application/rss+xml" /><item>
-    <title>Push Notifications on Salesforce🔔</title>
-    <link>https://vivekvismayam.github.io/posts/show-push-notifications/</link>
-    <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/show-push-notifications/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_header.png" referrerpolicy="no-referrer">
-            </div>Show Push Notifications on salesforce]]></description>
-</item><item>
     <title>Pass sObject to an Apex Method From LWC Component📲</title>
     <link>https://vivekvismayam.github.io/posts/pass-sobject-lwc-to-apex/</link>
     <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
@@ -19,5 +11,13 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p9_header.png" referrerpolicy="no-referrer">
             </div>How to pass an sobject record to an apex method from LWC component]]></description>
+</item><item>
+    <title>Push Notifications on Salesforce🔔</title>
+    <link>https://vivekvismayam.github.io/posts/show-push-notifications/</link>
+    <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/show-push-notifications/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_header.png" referrerpolicy="no-referrer">
+            </div>Show Push Notifications on salesforce]]></description>
 </item></channel>
 </rss>
