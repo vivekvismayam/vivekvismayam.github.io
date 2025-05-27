@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LWC - Tag - InSights</title>
+        <link>https://vivekvismayam.github.io/tags/lwc/</link>
+        <description>LWC - Tag - InSights</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 28 May 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/lwc/" rel="self" type="application/rss+xml" /><item>
+    <title>Pass sObject to an Apex Method From LWC Component📲</title>
+    <link>https://vivekvismayam.github.io/posts/pass-sobject-lwc-to-apex/</link>
+    <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/pass-sobject-lwc-to-apex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p9_header.png" referrerpolicy="no-referrer">
+            </div>How to pass an sobject record to an apex method from LWC component]]></description>
+</item><item>
+    <title>Custom Label As A Property In Lightning Page &amp; LWR Site🔖🔖🔖</title>
+    <link>https://vivekvismayam.github.io/posts/custom-label-as-property/</link>
+    <pubDate>Thu, 23 May 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/custom-label-as-property/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p1_header.png" referrerpolicy="no-referrer">
+            </div>Using Custom Label as a Property in Lightning Page &amp; LWR Site]]></description>
+</item></channel>
+</rss>

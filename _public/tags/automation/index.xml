@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Automation - Tag - InSights</title>
+        <link>https://vivekvismayam.github.io/tags/automation/</link>
+        <description>Automation - Tag - InSights</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 24 May 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/automation/" rel="self" type="application/rss+xml" /><item>
+    <title>New Automation Lightning App in Salesforce⚡⚡⚡</title>
+    <link>https://vivekvismayam.github.io/posts/automation-lightning-app/</link>
+    <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/automation-lightning-app/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p2_1.jpg" referrerpolicy="no-referrer">
+            </div>Manage Your Flows More Efficiently with the Automation Lightning App]]></description>
+</item></channel>
+</rss>

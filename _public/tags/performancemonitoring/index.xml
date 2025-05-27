@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PerformanceMonitoring - Tag - InSights</title>
+        <link>https://vivekvismayam.github.io/tags/performancemonitoring/</link>
+        <description>PerformanceMonitoring - Tag - InSights</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/performancemonitoring/" rel="self" type="application/rss+xml" /><item>
+    <title>Lightning Usage App</title>
+    <link>https://vivekvismayam.github.io/posts/lightning-usage-app/</link>
+    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/lightning-usage-app/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p11_header.png" referrerpolicy="no-referrer">
+            </div>Great way to track adoption and usage of Lightning Experience]]></description>
+</item><item>
+    <title>Experienced Page Time in Salesforce</title>
+    <link>https://vivekvismayam.github.io/posts/experienced-page-time/</link>
+    <pubDate>Fri, 28 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/experienced-page-time/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p10_header.png" referrerpolicy="no-referrer">
+            </div>Ever wondered how long it takes for a Lightning Experience page to fully load and display? Salesforce&rsquo;s Experienced Page Time (EPT) helps measure exactly that!]]></description>
+</item></channel>
+</rss>
