@@ -3,7 +3,23 @@
         <title>Data - Tag - InSights</title>
         <link>https://vivekvismayam.github.io/tags/data/</link>
         <description>Data - Tag - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 03 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/data/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/data/" rel="self" type="application/rss+xml" /><item>
+    <title>Upload Files In LWC- 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘪𝘯𝘱𝘶𝘵 𝘷𝘴 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘧𝘪𝘭𝘦-𝘶𝘱𝘭𝘰𝘢𝘥</title>
+    <link>https://vivekvismayam.github.io/posts/fileupload-vs-lightninginput/</link>
+    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/fileupload-vs-lightninginput/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p12_header.png" referrerpolicy="no-referrer">
+            </div>Great way to track adoption and usage of Lightning Experience]]></description>
+</item><item>
+    <title>Quick Tip! Make An Authenticated HTTP Request using Salesforce CLI 🚀 </title>
+    <link>https://vivekvismayam.github.io/posts/api-call-from-sf-cli/</link>
+    <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/api-call-from-sf-cli/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p13_header.png" referrerpolicy="no-referrer">
+            </div>Make An Authenticated Api Callout right from Salesforce CLI]]></description>
+</item><item>
     <title>Pass sObject to an Apex Method From LWC Component📲</title>
     <link>https://vivekvismayam.github.io/posts/pass-sobject-lwc-to-apex/</link>
     <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>

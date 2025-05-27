@@ -31,7 +31,7 @@ For Eg:
 This is how we can reference the Custom Label ```{!𝘓𝘢𝘣𝘦𝘭.c.MyLabel}``` in Lightning App Builder
 
 
-![Image 2](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p1_1.jpg)
+![Image 1](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p1_1.jpg)
 
 
 ***

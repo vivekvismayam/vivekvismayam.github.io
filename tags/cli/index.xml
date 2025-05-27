@@ -3,7 +3,15 @@
         <title>CLI - Tag - InSights</title>
         <link>https://vivekvismayam.github.io/tags/cli/</link>
         <description>CLI - Tag - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 03 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/cli/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/cli/" rel="self" type="application/rss+xml" /><item>
+    <title>Quick Tip! Make An Authenticated HTTP Request using Salesforce CLI 🚀 </title>
+    <link>https://vivekvismayam.github.io/posts/api-call-from-sf-cli/</link>
+    <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/api-call-from-sf-cli/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p13_header.png" referrerpolicy="no-referrer">
+            </div>Make An Authenticated Api Callout right from Salesforce CLI]]></description>
+</item><item>
     <title>Import Files Using Bulk API from Salesforce CLI </title>
     <link>https://vivekvismayam.github.io/posts/bulk-import-using-cli/</link>
     <pubDate>Sat, 25 May 2024 16:10:13 &#43;0530</pubDate><author>

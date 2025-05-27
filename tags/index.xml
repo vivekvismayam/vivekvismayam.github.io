@@ -3,12 +3,33 @@
         <title>Tags - Tag - InSights</title>
         <link>https://vivekvismayam.github.io/tags/</link>
         <description>Tags - Tag - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Admin</title>
     <link>https://vivekvismayam.github.io/tags/admin/</link>
-    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+    <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
     </author><guid>https://vivekvismayam.github.io/tags/admin/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>CLI</title>
+    <link>https://vivekvismayam.github.io/tags/cli/</link>
+    <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://vivekvismayam.github.io/tags/cli/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Data</title>
+    <link>https://vivekvismayam.github.io/tags/data/</link>
+    <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://vivekvismayam.github.io/tags/data/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>RestAPI</title>
+    <link>https://vivekvismayam.github.io/tags/restapi/</link>
+    <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://vivekvismayam.github.io/tags/restapi/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Lightning</title>
@@ -16,6 +37,13 @@
     <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
     </author><guid>https://vivekvismayam.github.io/tags/lightning/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>LWC</title>
+    <link>https://vivekvismayam.github.io/tags/lwc/</link>
+    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://vivekvismayam.github.io/tags/lwc/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>PerformanceMonitoring</title>
@@ -44,34 +72,6 @@
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
         <name>Author</name>
     </author><guid>https://vivekvismayam.github.io/tags/flows/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>CLI</title>
-    <link>https://vivekvismayam.github.io/tags/cli/</link>
-    <pubDate>Mon, 03 Jun 2024 16:10:13 &#43;0530</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://vivekvismayam.github.io/tags/cli/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Data</title>
-    <link>https://vivekvismayam.github.io/tags/data/</link>
-    <pubDate>Mon, 03 Jun 2024 16:10:13 &#43;0530</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://vivekvismayam.github.io/tags/data/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>LWC</title>
-    <link>https://vivekvismayam.github.io/tags/lwc/</link>
-    <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://vivekvismayam.github.io/tags/lwc/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>RestAPI</title>
-    <link>https://vivekvismayam.github.io/tags/restapi/</link>
-    <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://vivekvismayam.github.io/tags/restapi/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

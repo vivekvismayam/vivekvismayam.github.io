@@ -3,7 +3,15 @@
         <title>Vivek - Author - InSights</title>
         <link>https://vivekvismayam.github.io/authors/vivek/</link>
         <description>Vivek - Author - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/authors/vivek/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/authors/vivek/" rel="self" type="application/rss+xml" /><item>
+    <title>Upload Files In LWC- 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘪𝘯𝘱𝘶𝘵 𝘷𝘴 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘧𝘪𝘭𝘦-𝘶𝘱𝘭𝘰𝘢𝘥</title>
+    <link>https://vivekvismayam.github.io/posts/fileupload-vs-lightninginput/</link>
+    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/fileupload-vs-lightninginput/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p12_header.png" referrerpolicy="no-referrer">
+            </div>Great way to track adoption and usage of Lightning Experience]]></description>
+</item><item>
     <title>Push Notifications on Salesforce🔔</title>
     <link>https://vivekvismayam.github.io/posts/show-push-notifications/</link>
     <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
@@ -27,6 +35,14 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p10_header.png" referrerpolicy="no-referrer">
             </div>Ever wondered how long it takes for a Lightning Experience page to fully load and display? Salesforce&rsquo;s Experienced Page Time (EPT) helps measure exactly that!]]></description>
+</item><item>
+    <title>Quick Tip! Make An Authenticated HTTP Request using Salesforce CLI 🚀 </title>
+    <link>https://vivekvismayam.github.io/posts/api-call-from-sf-cli/</link>
+    <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/api-call-from-sf-cli/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p13_header.png" referrerpolicy="no-referrer">
+            </div>Make An Authenticated Api Callout right from Salesforce CLI]]></description>
 </item><item>
     <title>Pass sObject to an Apex Method From LWC Component📲</title>
     <link>https://vivekvismayam.github.io/posts/pass-sobject-lwc-to-apex/</link>
@@ -67,21 +83,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/generic_header.png" referrerpolicy="no-referrer">
             </div>Easiest way to get list of objects if you can execute SF CLI]]></description>
-</item><item>
-    <title>Exploring the Lesser-Known HTTP Method: HEAD 🌐</title>
-    <link>https://vivekvismayam.github.io/posts/http-method-head/</link>
-    <pubDate>Sat, 25 May 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/http-method-head/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/generic_header.png" referrerpolicy="no-referrer">
-            </div>One method in the HTTP family that often goes unnoticed: the HEAD method. 🕵️‍♂️]]></description>
-</item><item>
-    <title>New Automation Lightning App in Salesforce⚡⚡⚡</title>
-    <link>https://vivekvismayam.github.io/posts/automation-lightning-app/</link>
-    <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/automation-lightning-app/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p2_1.jpg" referrerpolicy="no-referrer">
-            </div>Manage Your Flows More Efficiently with the Automation Lightning App]]></description>
 </item></channel>
 </rss>
