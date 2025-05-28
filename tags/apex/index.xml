@@ -3,7 +3,7 @@
         <title>Apex - Tag - InSights</title>
         <link>https://vivekvismayam.github.io/tags/apex/</link>
         <description>Apex - Tag - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/apex/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/apex/" rel="self" type="application/rss+xml" /><item>
     <title>Pass sObject to an Apex Method From LWC Component📲</title>
     <link>https://vivekvismayam.github.io/posts/pass-sobject-lwc-to-apex/</link>
     <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>
@@ -19,5 +19,13 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_header.png" referrerpolicy="no-referrer">
             </div>Show Push Notifications on salesforce]]></description>
+</item><item>
+    <title>18 Digit ID In Apex </title>
+    <link>https://vivekvismayam.github.io/posts/id-in-apex/</link>
+    <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/id-in-apex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/generic_header.png" referrerpolicy="no-referrer">
+            </div>when you work with Salesforce IDs Salesforce automatically converts 15-character IDs to 18-character Ids]]></description>
 </item></channel>
 </rss>

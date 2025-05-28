@@ -52,6 +52,14 @@
                 <img src="/images/generic_header.png" referrerpolicy="no-referrer">
             </div>Easiest way to get list of objects if you can execute SF CLI]]></description>
 </item><item>
+    <title>Precision Errors In Javascript</title>
+    <link>https://vivekvismayam.github.io/posts/precision-errors-in-js/</link>
+    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/precision-errors-in-js/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p15_header.png" referrerpolicy="no-referrer">
+            </div>JavaScript uses binary floating-point arithmetic (IEEE 754 standard), which can cause precision errors when representing certain decimal numbers]]></description>
+</item><item>
     <title>Upload Files In LWC- 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘪𝘯𝘱𝘶𝘵 𝘷𝘴 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘧𝘪𝘭𝘦-𝘶𝘱𝘭𝘰𝘢𝘥</title>
     <link>https://vivekvismayam.github.io/posts/fileupload-vs-lightninginput/</link>
     <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
@@ -59,6 +67,14 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p12_header.png" referrerpolicy="no-referrer">
             </div>Great way to track adoption and usage of Lightning Experience]]></description>
+</item><item>
+    <title>18 Digit ID In Apex </title>
+    <link>https://vivekvismayam.github.io/posts/id-in-apex/</link>
+    <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/id-in-apex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/generic_header.png" referrerpolicy="no-referrer">
+            </div>when you work with Salesforce IDs Salesforce automatically converts 15-character IDs to 18-character Ids]]></description>
 </item><item>
     <title>Exploring the Lesser-Known HTTP Method: HEAD 🌐</title>
     <link>https://vivekvismayam.github.io/posts/http-method-head/</link>
