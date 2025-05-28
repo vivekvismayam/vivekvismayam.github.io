@@ -4,6 +4,14 @@
         <link>https://vivekvismayam.github.io/tags/lightning/</link>
         <description>Lightning - Tag - InSights</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/lightning/" rel="self" type="application/rss+xml" /><item>
+    <title>Salesforce Rest Explorer🚀 VS Code Extension for Salesforce Developers</title>
+    <link>https://vivekvismayam.github.io/posts/salesforce-rest-explorer-1/</link>
+    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/salesforce-rest-explorer-1/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p16_header.png" referrerpolicy="no-referrer">
+            </div>VS Code extension to hit Salesforce REST APIs directly from VS Code!]]></description>
+</item><item>
     <title>Lightning Usage App</title>
     <link>https://vivekvismayam.github.io/posts/lightning-usage-app/</link>
     <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
