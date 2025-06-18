@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CurrencyIsoCode - Tag - InSights</title>
+        <link>https://vivekvismayam.github.io/tags/currencyisocode/</link>
+        <description>CurrencyIsoCode - Tag - InSights</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Jun 2025 11:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/currencyisocode/" rel="self" type="application/rss+xml" /><item>
+    <title>Why a User Couldn’t Change Opportunity Currency — Even with Full Access💡</title>
+    <link>https://vivekvismayam.github.io/posts/unable-to-change-currencyisocode/</link>
+    <pubDate>Wed, 18 Jun 2025 11:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/unable-to-change-currencyisocode/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p17_header.png" referrerpolicy="no-referrer">
+            </div>A puzzling issue in our Salesforce org. Debugging an issue faced in daily developer life!]]></description>
+</item></channel>
+</rss>

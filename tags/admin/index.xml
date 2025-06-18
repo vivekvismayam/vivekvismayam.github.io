@@ -3,7 +3,15 @@
         <title>Admin - Tag - InSights</title>
         <link>https://vivekvismayam.github.io/tags/admin/</link>
         <description>Admin - Tag - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/admin/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Jun 2025 11:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/admin/" rel="self" type="application/rss+xml" /><item>
+    <title>Why a User Couldn’t Change Opportunity Currency — Even with Full Access💡</title>
+    <link>https://vivekvismayam.github.io/posts/unable-to-change-currencyisocode/</link>
+    <pubDate>Wed, 18 Jun 2025 11:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/unable-to-change-currencyisocode/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p17_header.png" referrerpolicy="no-referrer">
+            </div>A puzzling issue in our Salesforce org. Debugging an issue faced in daily developer life!]]></description>
+</item><item>
     <title>Quick Tip! Make An Authenticated HTTP Request using Salesforce CLI 🚀 </title>
     <link>https://vivekvismayam.github.io/posts/api-call-from-sf-cli/</link>
     <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
@@ -75,13 +83,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p10_header.png" referrerpolicy="no-referrer">
             </div>Ever wondered how long it takes for a Lightning Experience page to fully load and display? Salesforce&rsquo;s Experienced Page Time (EPT) helps measure exactly that!]]></description>
-</item><item>
-    <title>New Automation Lightning App in Salesforce⚡⚡⚡</title>
-    <link>https://vivekvismayam.github.io/posts/automation-lightning-app/</link>
-    <pubDate>Fri, 24 May 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/automation-lightning-app/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p2_1.jpg" referrerpolicy="no-referrer">
-            </div>Manage Your Flows More Efficiently with the Automation Lightning App]]></description>
 </item></channel>
 </rss>

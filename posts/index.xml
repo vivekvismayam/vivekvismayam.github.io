@@ -3,7 +3,15 @@
         <title>All Posts - InSights</title>
         <link>https://vivekvismayam.github.io/posts/</link>
         <description>All Posts | InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Jun 2025 11:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Why a User Couldn’t Change Opportunity Currency — Even with Full Access💡</title>
+    <link>https://vivekvismayam.github.io/posts/unable-to-change-currencyisocode/</link>
+    <pubDate>Wed, 18 Jun 2025 11:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/unable-to-change-currencyisocode/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p17_header.png" referrerpolicy="no-referrer">
+            </div>A puzzling issue in our Salesforce org. Debugging an issue faced in daily developer life!]]></description>
+</item><item>
     <title>Quick Tip! Make An Authenticated HTTP Request using Salesforce CLI 🚀 </title>
     <link>https://vivekvismayam.github.io/posts/api-call-from-sf-cli/</link>
     <pubDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</pubDate><author>
@@ -75,13 +83,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p1_header.png" referrerpolicy="no-referrer">
             </div>Using Custom Label as a Property in Lightning Page &amp; LWR Site]]></description>
-</item><item>
-    <title>Lightning Usage App</title>
-    <link>https://vivekvismayam.github.io/posts/lightning-usage-app/</link>
-    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/lightning-usage-app/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p11_header.png" referrerpolicy="no-referrer">
-            </div>Great way to track adoption and usage of Lightning Experience]]></description>
 </item></channel>
 </rss>

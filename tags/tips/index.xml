@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tips - Tag - InSights</title>
+        <link>http://localhost:1313/tags/tips/</link>
+        <description>Tips - Tag - InSights</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Jun 2025 11:10:13 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/tags/tips/" rel="self" type="application/rss+xml" /><item>
+    <title>8 Lesser-Known But Super Useful JavaScript Tips⚡</title>
+    <link>http://localhost:1313/posts/useful-js-tips/</link>
+    <pubDate>Wed, 18 Jun 2025 11:10:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>http://localhost:1313/posts/useful-js-tips/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p17_header.png" referrerpolicy="no-referrer">
+            </div>Few JS Tips and examples]]></description>
+</item></channel>
+</rss>
