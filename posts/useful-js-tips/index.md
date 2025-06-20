@@ -115,6 +115,7 @@ console.log([1] == [1]); // false
 ```
 🔁 Same contents ≠ same reference.    
 📌Always remember: when comparing arrays (or objects), use reference equality only when you're sure they're the same instance — or compare contents manually.  
+
 ---
 
 ## 10. Null vs Undefined
