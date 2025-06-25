@@ -3,7 +3,15 @@
         <title>Apex - Tag - InSights</title>
         <link>https://vivekvismayam.github.io/tags/apex/</link>
         <description>Apex - Tag - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jul 2024 16:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/apex/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 25 Jun 2025 11:00:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/apex/" rel="self" type="application/rss+xml" /><item>
+    <title>Programatically Control User Passwords in Apex 🔐</title>
+    <link>https://vivekvismayam.github.io/posts/set-password-apex/</link>
+    <pubDate>Wed, 25 Jun 2025 11:00:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/set-password-apex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p19_header.png" referrerpolicy="no-referrer">
+            </div>Set Password and Reset Password Methods in Apex]]></description>
+</item><item>
     <title>Pass sObject to an Apex Method From LWC Component📲</title>
     <link>https://vivekvismayam.github.io/posts/pass-sobject-lwc-to-apex/</link>
     <pubDate>Tue, 28 May 2024 16:10:13 &#43;0530</pubDate><author>

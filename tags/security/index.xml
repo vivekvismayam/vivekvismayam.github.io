@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Security - Tag - InSights</title>
+        <link>https://vivekvismayam.github.io/tags/security/</link>
+        <description>Security - Tag - InSights</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 25 Jun 2025 11:00:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/security/" rel="self" type="application/rss+xml" /><item>
+    <title>Programatically Control User Passwords in Apex 🔐</title>
+    <link>https://vivekvismayam.github.io/posts/set-password-apex/</link>
+    <pubDate>Wed, 25 Jun 2025 11:00:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/set-password-apex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p19_header.png" referrerpolicy="no-referrer">
+            </div>Set Password and Reset Password Methods in Apex]]></description>
+</item></channel>
+</rss>
