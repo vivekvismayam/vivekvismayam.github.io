@@ -1,146 +1,136 @@
-# Setting Up A Telegram-Powered Media Downloader📲 for My Home Lab Using Node.js🔋
+# Programatically Control User Passwords in Apex 🔐
 
-# Have you thought of Turning Telegram into a Remote Media Pipeline for your Home Server??🚀
-## 🔍 Background
-Managing media in a home server setup can be both fun and challenging—especially when you're trying to automate file ingestion into services like [Jellyfin](https://jellyfin.org/) or Plex(https://www.plex.tv/media-server-downloads/). 
-Recently, I started setting up a home lab server using one of my old laptops.  Initially, I relied on [qBittorrent](https://www.qbittorrent.org/) and [Aria2 with AriaNG](https://hub.docker.com/r/hurlenko/aria2-ariang) to download files for my personal Jellyfin Service. However, finding the right content via torrents was often challenging.Telegram, on the other hand, makes it incredibly easy to discover and share files. But downloading those files directly to a server isn’t straightforward — at least, not out of the box.
-I wanted a way to send videos or movies directly from my phone into my home lab server over Telegram, without needing to log in via SSH or set up web UIs for upload.
 
-My first instinct was to use a **Telegram bot**, but I quickly hit a few roadblocks:
+In Salesforce, resetting a user's password is a common admin task — but did you know developers can do it programmatically using Apex?
+There are two main methods which a developer need to be aware of!
 
-* Telegram bots running on a public server have a 50MB file size limit when using the getFile method, making them unsuitable for downloading large video files.
-* Most Telegram bot libraries designed for local server setups are typically written in Python, which isn’t my strongest area — so I began looking for a Node.js alternative.
-* Bots usually require public endpoints or tunneling to work properly with webhooks, adding complexity to a local setup.
+## Set Password Method 🍭
+### 🚀 What is System.setPassword()?
+System.setPassword(userId, newPassword) is a static method in the Apex System class that allows you to set a new password for any user, as long as the executing user has necessary permissions.
 
-That’s when I discovered [**GramJS**](https://github.com/gram-js/gramjs), a Telegram MTProto client for **Node.js**. It allowed me to use my preferred tech stack to build a flexible and fully offline-compatible solution.
-
----
-## 🧠 The Idea
-The concept is simple:  
-1. Run a **Telegram client** on my **Ubuntu-based home server**, logged in with one of my own Telegram accounts.
-2. Forward video files or movies to this logged in account from my main Telegram account.
-3. The client listens for **new messages** from **only me** and downloads the media to the appropriate folder.
-4. The files are routed based on **keywords** (e.g., `#movie`, `#series`) and ingested by **Jellyfin**.
-5. I also get **real-time progress updates** and control the system via chat commands.
-
----
-## ⚙️ Key Features
-### ✅ Runs on Node.js, Not Python  
-To avoid Python-based tooling, I built this using `gramjs` in Node.js. This allowed me to work within my comfort zone and avoid maintaining a secondary Python setup.  
-### 🔐 Private and User-Filtered  
-The downloader only processes messages from **my personal Telegram account**. Any other messages or forwarded content from other users are ignored for security and simplicity.  
-### ♻️ No Duplication
-The Telegram client processes **only fresh messages** as they arrive. It doesn't go back to previous messages or attempt re-downloads. This keeps storage clean and avoids accidental duplication.
-### 🟢 Startup Notifications
-![Image 0](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_4.png)
-Every time the program restarts, I get a message on Telegram saying: 👀 Listening for new messages...
-This helps ensure that even after a reboot or crash, free logging and I know the service is alive and behaving correctly.
-### 📊 Real-Time Download Progress
-I've added logic to **track and report download progress** back to me on Telegram:
-* Every 10% completion triggers a new message (e.g., "File.mp4: 30% downloaded").
-* Yes, Telegram allows you to edit a single message to update progress, but I intentionally chose **separate progress messages** for now — it helps me monitor performance, especially during the early phases of usage.
-![Image 1](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_1.png)
-### 📁 Keyword-Based Download Routing
-Based on specific **keywords in the message text**, the download path is selected dynamically:
-* Send a message `Path` to check which path is currently active- Movie (`/home/media/movies`) Or Series(`/home/media/series`)
-* Send a message `ChangePath` tin the Telegram chat to toggle the path between configurable Paths- Movies & Series 
-This categorization feeds directly into Jellyfin’s folder-based library scan and gives me a quick way to control the system remotely without touching the server terminal.
-![Image 2](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_2.png)
-### 🔄 systemd Service for Background Execution
-To make sure the script runs **reliably in the background**, I created a `systemd` service for Ubuntu.
-This ensures
-* Automatically **starts on boot**
-* Restarts automatically on failure
-* Runs independently of any terminal or SSH session
-* Easy to manage via `systemctl` commands
-
----
-## 📦 How To Setup This?
-You can find the code and feel free if you want to set up the same [TelegramClientDownloader](https://github.com/vivekvismayam/TelegramClientDownloader) 
-Please find below for detailes setup instructions.
-1. Clone this Reporitory: [TelegramClientDownloader](https://github.com/vivekvismayam/TelegramClientDownloader) 
-2. Run `npm Install`
-3. Set up environment variables
-```.env
-    #Replace API ID and Hash with your values from https://my.telegram.org/auth
-    TELEGRAM_API_ID=0000
-    TELEGRAM_API_HASH=123456789
-
-    #Download files only if forwarded from below user
-    ADMIN_USERNAME=@username
-
-    #Remember to keep \ or/ at the end as per platform
-    MOVIES_DOWNLOADPATH= #your movies download path Eg: /Shared/Jellyfin/Movies
-    SERIES_DOWNLOADPATH= #your series download path Eg: /Shared/Jellyfin/Series
-
-    #Keep DELETE if you want to delete message(file) from chat post download. Case Sensitive. Any other file will avoid file from getting deleted from chat
-    DELETE_FILES_POST_DOWNLOAD=DELETE
-
+```Apex
+    Id userId = '005XXXXXXXXXXXX'; // Replace with actual User ID
+    String newPassword = 'Secure@123';
+    System.setPassword(userId, newPassword);
 ```
->⛔ Do not expose your Telegram API ID Or API Hash. Store these securely!  
->✳️Steps for [Creating your API Id and Hash](https://core.telegram.org/api/obtaining_api_id)
-4. Run `npm run listen`
-5. Authenticate with Phone number and 2F Auth code(Refer [Gram JS](https://gram.js.org/) for more details on auth)
-**Create a Service File in Ubuntu**
-If you want to run as a service file in ubuntu, follow below steps:
-1. Create a service file 
-```bash
-sudo nano /etc/systemd/system/telegram-client.service
-```
->Sample Service File
->```ini
->[Unit]
->Description=Telegram Media Downloader
->After=network.target
->
->[Service]
->ExecStart=/usr/bin/node npm run listen
->Restart=on-failure
->User=youruser
->Environment=NODE_ENV=production
->WorkingDirectory=your working directory
-># Optional logs
->StandardOutput=append:/var/log/telegram-client.log
->StandardError=append:/var/log/telegram-client-error.log
->
->[Install]
->WantedBy=multi-user.target
->```
+### 📕 Important Notes
+- The user whose password is being set will not receive the standard "reset password" email.
+- If a security question hasn't been previously configured, a user trying to login is redirected to the "Change Your Password" page.
+- The password must match the org’s password policies (length, complexity, etc.).
+- The method only works in Apex code that runs in system context, like triggers, classes, or anonymous execution in Developer Console.
+- It does not work in a sandbox where user identity confirmation is disabled.
+>Be careful with this method, and do not expose this functionality to end-users.
 
->Learn More  
->[Understanding Systemd Units and Unit Files](https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files)
-2. Start and enable:
-```bash
-sudo systemctl daemon-reload
-sudo systemctl enable telegram-client
-sudo systemctl start telegram-client
+### ⚠️ When to Use This?
+Here are some practical use cases:  
+- 🔄 Migrating users from another system and setting initial passwords.
+- 🛠️ Admin utilities built inside the org for internal support teams.
+
+### 🧪 Example: Setting User Password from an Apex Class
+```Apex
+public class PasswordsetHelper {
+    public static void setUserPassword(Id userId, String newPassword) {
+        try {
+            System.setPassword(userId, newPassword);
+            System.debug('Password successfully set for user: ' + userId);
+        } catch (Exception e) {
+            System.debug('Error resetting password: ' + e.getMessage());
+        }
+    }
+}
 ```
-3. Check status:
-```bash
-sudo systemctl status telegram-client
-```
-![Image 3](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_3.png)
-> Learn more  
-> [Manage Systemd Services with systemctl on Linux](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
+### ✅ Best Practices
+- Always validate the password against your org’s security policies before setting.
+- Avoid exposing this method through a public API or unsecured Flow/Apex page.
+- Log the operation securely if used in an internal admin tool.
+- Use and communicate with caution as we are doing this on behalf of an end user
+### 🚫 Common Errors
+| Error| Reason|
+| ----- |----- |
+| `System.InvalidParameterValueException: INVALID_NEW_PASSWORD:`| The new password doesn’t follow org policy |
+| `System.InvalidParameterValueException: UNKNOWN_EXCEPTION`    | Invalid repeated password   |
+| `System.InvalidParameterValueException: INVALID_USER_ID`      | Invalid or inactive User ID passed in     |
+| `System.UnexpectedException: INACTIVE_OWNER_OR_USER`          | Qwner or user is inactive     |
+| `System.InvalidParameterValueException: INSUFFICIENT_ACCESS`  | Running user do not have sufficient permissions to complete this operation|
+
+
+`System.setPassword()` is a powerful Apex method that lets you reset a user’s password programmatically. It’s a useful tool for admins and developers building internal automation — but must be used carefully due to its sensitive nature.  
 
 ---
-## 📉 Limitations
-* Telegram media links are temporary — if the download is too slow, it may expire.
-* No retry logic yet for failed downloads (planned).
-* Currently supports only one user — multi-user control is possible but not implemented intentionally for simplicity and safety.
-
+### 📚Salesforce Documentations
+- Read More about [`System.setPassword()`)](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_methods_system_system.htm#apex_System_System_setPassword) in Salesforce Apex Developer Guide📕
+- Read Salesforce [Help Arcticle](https://help.salesforce.com/s/articleView?id=000387826&type=1) about how set password method behaves.
 ---
-## ✅ Why I Love This Setup
 
-* 100% automated — just forward a video and it’s in Jellyfin within minutes.
-* No need to manually upload, share, or mount folders.
-* Secure, private, and self-hosted.
-* Real-time feedback keeps me confident it’s working.
+## Reset Password Method 🍬
 
+### 🚀 What is System.resetPassword(userId, sendUserEmail)?
+resetPassword() is a static method in the Apex System class that lets you reset a user's password and optionally trigger the standard Salesforce password reset email. System.resetPassword(userId, sendUserEmail) offers a flexible and secure way to reset user passwords while giving you control over whether to notify the user. It’s an excellent method for admin support automation, onboarding flows, or maintenance tasks — all while keeping security intact.
+```Apex
+Id userId = '005XXXXXXXXXXXX'; // Replace with the actual User ID
+Boolean sendEmail = true;
+System.resetPassword(userId, sendEmail);
+```
+>- If `sendEmail = true`, the user will get the standard "reset your password" email from Salesforce.
+>- If `sendEmail = false`, the password will be reset silently (typically used for automation).
+
+### 📕 Important Notes
+- The new password is system-generated and not visible to the developer.
+- You can optionally suppress the password reset email by setting `sendUserEmail = false`
+- The user must change their password the next time they log in.Users are prompted to enter a new password, and to select a security question and answer if they haven't already
+>Be careful with this method, and do not expose this functionality to end-users.
+
+### ⚠️ When to Use This?
+- Bulk password resets during migrations or sandbox refreshes.🔁
+- Admin console tools built for help desk or support agents.🔧
+- Silent resets in testing environments without emailing users.🔕 
+- Compliance resets (e.g., force a password reset for selected users) or Adhoc password reset🛡️ 
+
+### 🧪 Example: Reset and Email Notification
+```Apex
+public class PasswordResetManager {
+    public static void resetAndNotify(Id userId) {
+        try {
+            System.resetPassword(userId, true);
+            System.debug('Password reset email sent to user: ' + userId);
+        } catch (Exception e) {
+            System.debug('Error resetting password: ' + e.getMessage());
+        }
+    }
+}
+```
+>If you want to reset without sending an email:`System.resetPassword(userId, false);`
+
+### ✅ Best Practices
+- Use ```resetPassword()``` over ```setPassword()``` when you don't need to specify the password manually.
+- Only suppress the reset email in controlled internal environments.
+- Always wrap it in a try-catch block to handle permission or validation errors.
+
+### 🚫 Common Errors
+| Error                           | Reason                                      |
+| ------------------------------- | ------------------------------------------- |
+| `System.InvalidParameterValueException: INVALID_USER_ID`| Invalid or inactive User ID passed in     |
+| `System.UnexpectedException: INACTIVE_OWNER_OR_USER`    | Qwner or user is inactive     |
+| `System.InvalidParameterValueException: INSUFFICIENT_ACCESS`  | Running user do not have sufficient permissions to complete this operation|
+
+
+### 📚Salesforce Documentations
+- Read More about [`system.resetPassword()`](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_methods_system_system.htm#apex_System_System_resetPassword) in Salesforce Apex Developer Guide📕
+- Read Salesforce [Help Arcticle](https://help.salesforce.com/s/articleView?id=000387826&type=1) about design.
 ---
-## 🙌 Final Thoughts
 
-This Telegram + Node.js + GramJS automation has been a game-changer for managing media on my home lab. If you're comfortable with Node.js and Telegram, this is a simple yet powerful workflow you can set up cloning the github repo in few minutes.  
-Even if you don’t have a dedicated home server, you can still use this setup to remotely download files to your desktop or laptop via Telegram — perfect for grabbing a few files while you're away.  
+##  Set  vs Reset Password 🥤
+| Feature                              | `setPassword()`                         | `resetPassword()`                |
+| ------------------------------------ | --------------------------------------- | -------------------------------- |
+| Specify password                     | ✅ Yes                                   | ❌ No (system-generated)          |
+| Send email                           | ❌ No                                    | ✅ Optional                       |
+| Forces password change at next login | ❌ No                                    | ✅ Yes                            |
+| Best for                             | Internal tools, setting known passwords | User-friendly resets, automation |
+---
 
-*Do comment below if you have have a better idea or implemented something similar!*
+>## Reset Password With Email Template 🍫
+>`resetPasswordWithEmailTemplate(userId, sendUserEmail, emailTemplateName)`  
+>Resets the user's password and sends an email to the user with their new password. You specify the email template that is sent to the specified user. Use this method for external users of Experience Cloud sites.  
+>Read More about [`resetPasswordWithEmailTemplate`](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_methods_system_system.htm#apex_System_system_resetPasswordWithEmailTemplate) in Salesforce Apex Developer Guide📕
+
+This post contains few general exceptios which i have encountered. Comment down if you have encountered a different exception using this! 

@@ -5,9 +5,9 @@
         <description>Tips - Tag - InSights</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Jul 2025 11:20:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/tips/" rel="self" type="application/rss+xml" /><item>
     <title>Setting Up A Telegram-Powered Media Downloader📲 for My Home Lab Using Node.js🔋</title>
-    <link>https://vivekvismayam.github.io/posts/set-password-apex/</link>
+    <link>https://vivekvismayam.github.io/posts/telegram-media-downloader/</link>
     <pubDate>Wed, 02 Jul 2025 11:20:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/set-password-apex/</guid>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/telegram-media-downloader/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_header.png" referrerpolicy="no-referrer">
             </div>Building a telegram client to download media files to a server]]></description>
