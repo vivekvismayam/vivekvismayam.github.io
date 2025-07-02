@@ -2,7 +2,7 @@
 
 # Have you thought of Turning Telegram into a Remote Media Pipeline for your Home Server??🚀
 ## 🔍 Background
-Managing media in a home server setup can be both fun and challenging—especially when you're trying to automate file ingestion into services like [Jellyfin](https://jellyfin.org/) or Plex(https://www.plex.tv/media-server-downloads/). 
+Managing media in a home server setup can be both fun and challenging—especially when you're trying to automate file ingestion into services like [Jellyfin](https://jellyfin.org/) or [Plex](https://www.plex.tv/media-server-downloads/). 
 Recently, I started setting up a home lab server using one of my old laptops.  Initially, I relied on [qBittorrent](https://www.qbittorrent.org/) and [Aria2 with AriaNG](https://hub.docker.com/r/hurlenko/aria2-ariang) to download files for my personal Jellyfin Service. However, finding the right content via torrents was often challenging.Telegram, on the other hand, makes it incredibly easy to discover and share files. But downloading those files directly to a server isn’t straightforward — at least, not out of the box.
 I wanted a way to send videos or movies directly from my phone into my home lab server over Telegram, without needing to log in via SSH or set up web UIs for upload.
 
@@ -33,17 +33,17 @@ The downloader only processes messages from **my personal Telegram account**. An
 The Telegram client processes **only fresh messages** as they arrive. It doesn't go back to previous messages or attempt re-downloads. This keeps storage clean and avoids accidental duplication.
 ### 🟢 Startup Notifications
 ![Image 0](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_4.png)
-Every time the program restarts, I get a message on Telegram saying: 👀 Listening for new messages...
+Every time the program restarts, I get a message on Telegram saying: *👀 Listening for new messages...*
 This helps ensure that even after a reboot or crash, free logging and I know the service is alive and behaving correctly.
 ### 📊 Real-Time Download Progress
 I've added logic to **track and report download progress** back to me on Telegram:
-* Every 10% completion triggers a new message (e.g., "File.mp4: 30% downloaded").
+* Every 10% completion triggers a new message (*"Download crossed 20%"*) quoting the original file.
 * Yes, Telegram allows you to edit a single message to update progress, but I intentionally chose **separate progress messages** for now — it helps me monitor performance, especially during the early phases of usage.
 ![Image 1](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_1.png)
 ### 📁 Keyword-Based Download Routing
 Based on specific **keywords in the message text**, the download path is selected dynamically:
 * Send a message `Path` to check which path is currently active- Movie (`/home/media/movies`) Or Series(`/home/media/series`)
-* Send a message `ChangePath` tin the Telegram chat to toggle the path between configurable Paths- Movies & Series 
+* Send a message `ChangePath` in the Telegram chat to toggle the path between configurable Paths- Movies & Series.  
 This categorization feeds directly into Jellyfin’s folder-based library scan and gives me a quick way to control the system remotely without touching the server terminal.
 ![Image 2](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_2.png)
 ### 🔄 systemd Service for Background Execution
