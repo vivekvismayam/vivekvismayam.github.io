@@ -2,6 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://vivekvismayam.github.io/posts/set-password-apex/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/posts/set-password-apex/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/posts/useful-js-tips/</loc><lastmod>2025-06-20T12:30:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/posts/unable-to-change-currencyisocode/</loc><lastmod>2025-06-18T11:10:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
@@ -21,20 +22,25 @@
             <loc>https://vivekvismayam.github.io/posts/automation-lightning-app/</loc><lastmod>2024-05-24T16:10:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/posts/id-in-apex/</loc><lastmod>2024-07-20T16:10:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/posts/http-method-head/</loc><lastmod>2024-05-25T16:10:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/authors/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/categories/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/tags/downloader/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/categories/homelab/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/categories/it/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/categories/javascript/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/tags/js/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/tags/linux/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/tags/media/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/posts/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/tags/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/tags/telegram/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/tags/tips/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
+            <loc>https://vivekvismayam.github.io/authors/vivek/</loc><lastmod>2025-07-02T11:20:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/tags/apex/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
-            <loc>https://vivekvismayam.github.io/authors/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
-            <loc>https://vivekvismayam.github.io/categories/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
-            <loc>https://vivekvismayam.github.io/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
-            <loc>https://vivekvismayam.github.io/categories/it/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/tags/passwords/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
-            <loc>https://vivekvismayam.github.io/posts/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/categories/salesforce/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/tags/security/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
-            <loc>https://vivekvismayam.github.io/tags/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
-            <loc>https://vivekvismayam.github.io/tags/tips/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
-            <loc>https://vivekvismayam.github.io/authors/vivek/</loc><lastmod>2025-06-25T11:00:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
-            <loc>https://vivekvismayam.github.io/categories/javascript/</loc><lastmod>2025-06-20T12:30:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
-            <loc>https://vivekvismayam.github.io/tags/js/</loc><lastmod>2025-06-20T12:30:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/tags/admin/</loc><lastmod>2025-06-18T11:10:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/tags/currencyisocode/</loc><lastmod>2025-06-18T11:10:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>
             <loc>https://vivekvismayam.github.io/tags/data/</loc><lastmod>2025-06-18T11:10:13&#43;05:30</lastmod><changefreq>monthly</changefreq><priority>1</priority></url><url>

@@ -3,7 +3,15 @@
         <title>Vivek - Author - InSights</title>
         <link>https://vivekvismayam.github.io/authors/vivek/</link>
         <description>Vivek - Author - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 25 Jun 2025 11:00:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/authors/vivek/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Jul 2025 11:20:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/authors/vivek/" rel="self" type="application/rss+xml" /><item>
+    <title>Setting Up A Telegram-Powered Media Downloader📲 for My Home Lab Using Node.js🔋</title>
+    <link>https://vivekvismayam.github.io/posts/set-password-apex/</link>
+    <pubDate>Wed, 02 Jul 2025 11:20:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/set-password-apex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_header.png" referrerpolicy="no-referrer">
+            </div>Building a telegram client to download media files to a server]]></description>
+</item><item>
     <title>Programatically Control User Passwords in Apex 🔐</title>
     <link>https://vivekvismayam.github.io/posts/set-password-apex/</link>
     <pubDate>Wed, 25 Jun 2025 11:00:13 &#43;0530</pubDate><author>
@@ -75,13 +83,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p3_header.png" referrerpolicy="no-referrer">
             </div>Easiest way to transfer few records and child records between two sandboxes/orgs]]></description>
-</item><item>
-    <title>Push Notifications on Salesforce🔔</title>
-    <link>https://vivekvismayam.github.io/posts/show-push-notifications/</link>
-    <pubDate>Wed, 05 Jun 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/show-push-notifications/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p5_header.png" referrerpolicy="no-referrer">
-            </div>Show Push Notifications on salesforce]]></description>
 </item></channel>
 </rss>
