@@ -3,7 +3,15 @@
         <title>Vivek - Author - InSights</title>
         <link>https://vivekvismayam.github.io/authors/vivek/</link>
         <description>Vivek - Author - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Jul 2025 11:20:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/authors/vivek/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Aug 2025 11:20:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/authors/vivek/" rel="self" type="application/rss+xml" /><item>
+    <title>3 Salesforce CLI - Apex Commands Every Apex Developer Should Know🧑‍💻</title>
+    <link>https://vivekvismayam.github.io/posts/3sfcli-apex-commands/</link>
+    <pubDate>Sun, 03 Aug 2025 11:20:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/3sfcli-apex-commands/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p21_header.png" referrerpolicy="no-referrer">
+            </div>Salesforce CLI (especially the newer <code>sf</code> commands) can save you <strong>a ton of time</strong> — whether you&rsquo;re running tests, grabbing logs, or executing quick snippets of Apex.]]></description>
+</item><item>
     <title>Setting Up A Telegram-Powered Media Downloader📲 for My Home Lab Using Node.js🔋</title>
     <link>https://vivekvismayam.github.io/posts/telegram-media-downloader/</link>
     <pubDate>Wed, 02 Jul 2025 11:20:13 &#43;0530</pubDate><author>
@@ -75,13 +83,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p6_header.png" referrerpolicy="no-referrer">
             </div>You can now use the power of Bulk API to 𝐢𝐦𝐩𝐨𝐫𝐭 𝐚 𝐥𝐚𝐫𝐠𝐞 𝐧𝐮𝐦𝐛𝐞𝐫 𝐨𝐟 𝐫𝐞𝐜𝐨𝐫𝐝𝐬 𝐢𝐧𝐭𝐨 𝐚 𝐒𝐚𝐥𝐞𝐬𝐟𝐨𝐫𝐜𝐞 𝐨𝐛𝐣𝐞𝐜𝐭 𝐟𝐫𝐨𝐦 𝐚 𝐜𝐨𝐦𝐦𝐚-𝐬𝐞𝐩𝐚𝐫𝐚𝐭𝐞𝐝 𝐯𝐚𝐥𝐮𝐞𝐬 (𝐂𝐒𝐕) 𝐟𝐢𝐥𝐞]]></description>
-</item><item>
-    <title>Transfer Records Using SF CLI Command❗</title>
-    <link>https://vivekvismayam.github.io/posts/transfer-records-using-cli/</link>
-    <pubDate>Sat, 25 May 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/transfer-records-using-cli/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p3_header.png" referrerpolicy="no-referrer">
-            </div>Easiest way to transfer few records and child records between two sandboxes/orgs]]></description>
 </item></channel>
 </rss>

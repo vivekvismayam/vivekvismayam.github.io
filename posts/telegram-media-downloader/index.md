@@ -33,7 +33,7 @@ The downloader only processes messages from **my personal Telegram account**. An
 The Telegram client processes **only fresh messages** as they arrive. It doesn't go back to previous messages or attempt re-downloads. This keeps storage clean and avoids accidental duplication.
 ### 🟢 Startup Notifications
 ![Image 0](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_4.png)
-Every time the program restarts, I get a message on Telegram saying: *👀 Listening for new messages...*
+Every time the program restarts, I get a message on Telegram saying: *👀 Listening for new messages...*  
 This helps ensure that even after a reboot or crash, free logging and I know the service is alive and behaving correctly.
 ### 📊 Real-Time Download Progress
 I've added logic to **track and report download progress** back to me on Telegram:

@@ -3,7 +3,15 @@
         <title>Data - Tag - InSights</title>
         <link>https://vivekvismayam.github.io/tags/data/</link>
         <description>Data - Tag - InSights</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Jun 2025 11:10:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/data/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Aug 2025 11:20:13 &#43;0530</lastBuildDate><atom:link href="https://vivekvismayam.github.io/tags/data/" rel="self" type="application/rss+xml" /><item>
+    <title>3 Salesforce CLI - Apex Commands Every Apex Developer Should Know🧑‍💻</title>
+    <link>https://vivekvismayam.github.io/posts/3sfcli-apex-commands/</link>
+    <pubDate>Sun, 03 Aug 2025 11:20:13 &#43;0530</pubDate><author>
+                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/3sfcli-apex-commands/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p21_header.png" referrerpolicy="no-referrer">
+            </div>Salesforce CLI (especially the newer <code>sf</code> commands) can save you <strong>a ton of time</strong> — whether you&rsquo;re running tests, grabbing logs, or executing quick snippets of Apex.]]></description>
+</item><item>
     <title>Why a User Couldn’t Change Opportunity Currency — Even with Full Access💡</title>
     <link>https://vivekvismayam.github.io/posts/unable-to-change-currencyisocode/</link>
     <pubDate>Wed, 18 Jun 2025 11:10:13 &#43;0530</pubDate><author>
@@ -75,13 +83,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p15_header.png" referrerpolicy="no-referrer">
             </div>JavaScript uses binary floating-point arithmetic (IEEE 754 standard), which can cause precision errors when representing certain decimal numbers]]></description>
-</item><item>
-    <title>Upload Files In LWC- 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘪𝘯𝘱𝘶𝘵 𝘷𝘴 𝘭𝘪𝘨𝘩𝘵𝘯𝘪𝘯𝘨-𝘧𝘪𝘭𝘦-𝘶𝘱𝘭𝘰𝘢𝘥</title>
-    <link>https://vivekvismayam.github.io/posts/fileupload-vs-lightninginput/</link>
-    <pubDate>Sun, 30 Jun 2024 16:10:13 &#43;0530</pubDate><author>
-                        <name>Vivek</name><uri>https://vivekvismayam.github.io/profile</uri><email>vivekvismayam@gmail.com</email></author><guid>https://vivekvismayam.github.io/posts/fileupload-vs-lightninginput/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p12_header.png" referrerpolicy="no-referrer">
-            </div>Great way to track adoption and usage of Lightning Experience]]></description>
 </item></channel>
 </rss>
